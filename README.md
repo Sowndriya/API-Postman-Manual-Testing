@@ -6,13 +6,6 @@ This project demonstrates manual API testing using Postman.
 The project is based on an API testing practice platform and is created to learn and demonstrate the fundamentals of API testing.
 
 The APIs are tested using different HTTP methods, positive and negative test scenarios, request and response validation, status code verification, and basic response-time checks.
-
-## Tools Used
-- Postman
-- JSON
-- Microsoft Excel
-- GitHub
-
 ## What I Practiced
 - Understanding API requests and responses
 - Working with HTTP methods
